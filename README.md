@@ -20,6 +20,10 @@ Developed By
 
 Samanyou Garg - <http://www.samanyougarg.com>
 
+API Used
+============
+
+Currency Layer - <https://currencylayer.com/>
 
 License
 =======
