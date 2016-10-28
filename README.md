@@ -1,5 +1,4 @@
 # Currency Converter
-
 ![Currency Converter](https://github.com/samanyougarg/Currency_Converter/blob/master/screenshots.png)
 
 
@@ -14,6 +13,10 @@ Features present :
 * 2 decimal places for extreme accuracy
 * Tablet layout
 * Calculate prices with the currency converter
+
+Download on Foofle Play Store
+=============================
+[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=com.appisode.currencyconverter)
 
 Developed By
 ============
