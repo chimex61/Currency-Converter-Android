@@ -22,7 +22,9 @@ Developed By
 ============
 
 Samanyou Garg - <http://www.samanyougarg.com>
-Blog - <http://www.merutan.com>
+
+
+[Blog](http://www.merutan.com)
 
 API Used
 ============
